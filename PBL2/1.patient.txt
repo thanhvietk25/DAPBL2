@@ -1,0 +1,194 @@
+Tran Thi Binh
+123456789002
+0901234568
+1
+22
+BHYT002
+15/07/2026
+Le Van Cuong
+Cam cum
+Phong 102
+18/07/2026
+1
+T003
+Efferalgan 500mg
+Vien
+Ha sot, giam dau
+6000
+10
+
+Pham Thi Dung
+123456789003
+0901234569
+1
+25
+BHYT003
+05/09/2026
+Tran Van Minh
+Viem da day
+Phong 103
+10/09/2026
+2
+T004
+Omeprazole 20mg
+Vien
+Giam tiet axit da day
+4000
+14
+T005
+Phosphalugel
+Goi
+Trung hoa axit da day
+15000
+20
+
+Hoang Van Em
+123456789004
+0901234570
+0
+30
+BHYT004
+12/06/2026
+Le Thi Hoa
+Cao huyet ap
+Phong 104
+20/06/2026
+1
+T006
+Amlodipine 5mg
+Vien
+Ha huyet ap
+2500
+30
+
+Vo Van Giang
+123456789005
+0901234571
+0
+28
+BHYT005
+25/05/2026
+Pham Van Long
+Viem phe quan
+Phong 105
+02/06/2026
+2
+T007
+Clarithromycin 500mg
+Vien
+Khang sinh ho hấp
+8000
+7
+T008
+Acetylcystein 200mg
+Goi
+Tieu dom
+3000
+10
+
+Dang Thi Huong
+123456789006
+0901234572
+1
+35
+BHYT006
+08/04/2026
+Nguyen Thi Mai
+Roi loan tieu hoa
+Phong 106
+15/04/2026
+1
+T009
+Smecta
+Goi
+Cam hap phuc tieu hoa
+4000
+12
+
+Bui Van Khoa
+123456789007
+0901234573
+0
+19
+BHYT007
+30/03/2026
+Tran Van Son
+Viem xoang
+Phong 107
+05/04/2026
+2
+T010
+Xylometazoline 0.05%
+Lo
+Nho mui, giam nghet mui
+12000
+1
+T011
+Medrol 4mg
+Vien
+Khang viem
+3500
+10
+
+Nguyen Thi Lan
+123456789008
+0901234574
+1
+27
+BHYT008
+18/02/2026
+Le Van Thanh
+Dau dau migraine
+Phong 108
+22/02/2026
+1
+T012
+Panadol Extra
+Vien
+Giam dau dau
+7000
+10
+
+Pham Van Nam
+123456789009
+0901234575
+0
+42
+BHYT009
+10/01/2026
+Vo Thi Nga
+Tieu duong type 2
+Phong 109
+25/01/2026
+2
+T013
+Metformin 850mg
+Vien
+Ha duong huyet
+3000
+30
+T014
+Glimepiride 2mg
+Vien
+Kich thich tiet insulin
+4000
+30
+
+hhhh
+111111111111
+
+1
+11
+111111
+11/01/1111
+Tung
+Viem khop
+12
+12/01/1212
+1
+T015
+Celecoxib 200mg
+Vien
+Giam dau khop, khang viem
+8000
+15

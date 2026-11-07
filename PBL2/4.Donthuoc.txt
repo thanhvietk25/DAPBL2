@@ -1,0 +1,25 @@
+DT0001
+123456789003
+Pham Thi Dung
+079201000009
+Do Van Hieu
+12/10/2026
+1
+MT059
+Bisacodyl
+13
+1000.00
+Ngay 3 lan, moi lan 1 vien
+
+DT0002
+123456789010
+Tran Thi Oanh
+092168364545
+Bui Thanh Nhung
+22/10/2026
+1
+MT005
+Ibuprofen
+10
+2500.00
+2 Ngay 1 lan

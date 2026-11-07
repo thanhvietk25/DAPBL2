@@ -1,0 +1,489 @@
+MT001
+Paracetamol
+Vien
+Giam dau, ha sot
+2000
+100
+
+MT002
+Amoxicillin
+Vien
+Khang sinh
+5000
+50
+
+MT003
+Vitamin C
+Vien
+Bo sung vitamin C
+1500
+200
+
+MT004
+Oresol
+Goi
+Bu nuoc va dien giai
+3000
+80
+
+MT005
+Ibuprofen
+Vien
+Giam dau, chong viem
+2500
+50
+
+MT006
+Cetirizine
+Vien
+Giam di ung
+1200
+90
+
+MT007
+Loratadine
+Vien
+Giam trieu chung di ung
+1800
+75
+
+MT008
+Omeprazole
+Vien
+Giam tiet axit da day
+2200
+70
+
+MT009
+Esomeprazole
+Vien
+Dieu tri trao nguoc da day
+3500
+45
+
+MT010
+Smecta
+Goi
+Ho tro dieu tri tieu chay
+4000
+65
+
+MT011
+Loperamide
+Vien
+Giam tieu chay
+1000
+50
+
+MT012
+Domperidone
+Vien
+Ho tro giam buon non
+1500
+55
+
+MT013
+Metformin
+Vien
+Ho tro kiem soat duong huyet
+1800
+100
+
+MT014
+Amlodipine
+Vien
+Dieu tri tang huyet ap
+1200
+90
+
+MT015
+Losartan
+Vien
+Dieu tri tang huyet ap
+2500
+60
+
+MT016
+Atorvastatin
+Vien
+Giam cholesterol
+3000
+45
+
+MT017
+Simvastatin
+Vien
+Giam cholesterol
+2200
+50
+
+MT018
+Aspirin
+Vien
+Giam dau, chong ket tap tieu cau
+1000
+120
+
+MT019
+Clopidogrel
+Vien
+Chong ket tap tieu cau
+4500
+35
+
+MT020
+Salbutamol
+Binh
+Ho tro cat con co that phe quan
+25000
+25
+
+MT021
+Budesonide
+Binh
+Thuoc hit chong viem duong tho
+65000
+15
+
+MT022
+Dextromethorphan
+Chai
+Giam ho
+18000
+30
+
+MT023
+Ambroxol
+Vien
+Long dom
+1200
+80
+
+MT024
+Acetylcysteine
+Goi
+Long dom
+2500
+70
+
+MT025
+Guaifenesin
+Chai
+Long dom
+16000
+25
+
+MT026
+Amoxicillin clavulanate
+Vien
+Khang sinh
+8500
+40
+
+MT027
+Azithromycin
+Vien
+Khang sinh
+6000
+35
+
+MT028
+Cefixime
+Vien
+Khang sinh
+7000
+30
+
+MT029
+Cephalexin
+Vien
+Khang sinh
+3000
+45
+
+MT030
+Doxycycline
+Vien
+Khang sinh
+2500
+40
+
+MT031
+Metronidazole
+Vien
+Dieu tri mot so nhiem khuan
+1200
+65
+
+MT032
+Fluconazole
+Vien
+Dieu tri mot so nhiem nam
+4000
+25
+
+MT033
+Clotrimazole
+Tuyp
+Dieu tri nam da
+15000
+20
+
+MT034
+Mupirocin
+Tuyp
+Thuoc boi khang khuan
+35000
+12
+
+MT035
+Povidone iodine
+Chai
+Sat trung ngoai da
+18000
+30
+
+MT036
+Chlorhexidine
+Chai
+Dung dich sat khuan
+22000
+20
+
+MT037
+Hydrocortisone
+Tuyp
+Giam viem va ngua da
+18000
+18
+
+MT038
+Calamine
+Chai
+Lam diu da ngua
+25000
+15
+
+MT039
+Diclofenac
+Vien
+Giam dau, chong viem
+2000
+70
+
+MT040
+Naproxen
+Vien
+Giam dau, chong viem
+2800
+45
+
+MT041
+Tramadol
+Vien
+Giam dau
+5000
+20
+
+MT042
+Lidocaine
+Ong
+Gay te tai cho
+12000
+25
+
+MT043
+Dexamethasone
+Vien
+Chong viem
+1000
+40
+
+MT044
+Prednisolone
+Vien
+Chong viem
+1500
+35
+
+MT045
+Furosemide
+Vien
+Loi tieu
+1000
+50
+
+MT046
+Spironolactone
+Vien
+Loi tieu, giu kali
+1800
+30
+
+MT047
+Nitroglycerin
+Vien
+Ho tro cat con dau that nguc
+3500
+20
+
+MT048
+Warfarin
+Vien
+Chong dong mau
+2500
+25
+
+MT049
+Enalapril
+Vien
+Dieu tri tang huyet ap
+1500
+55
+
+MT050
+Bisoprolol
+Vien
+Dieu tri mot so benh tim mach
+2000
+40
+
+MT051
+Levothyroxine
+Vien
+Bo sung hormone tuyen giap
+1800
+30
+
+MT052
+Ferrous sulfate
+Vien
+Bo sung sat
+1000
+100
+
+MT053
+Folic acid
+Vien
+Bo sung acid folic
+800
+120
+
+MT054
+Calcium carbonate
+Vien
+Bo sung canxi
+1200
+90
+
+MT055
+Vitamin D3
+Vien
+Bo sung vitamin D
+1500
+75
+
+MT056
+Zinc sulfate
+Vien
+Bo sung kem
+1000
+80
+
+MT057
+Multivitamin
+Vien
+Bo sung vitamin va khoang chat
+2500
+100
+
+MT058
+Lactulose
+Chai
+Ho tro dieu tri tao bon
+30000
+20
+
+MT059
+Bisacodyl
+Vien
+Ho tro dieu tri tao bon
+1000
+32
+
+MT060
+Oral rehydration salts
+Goi
+Bu nuoc va dien giai
+2500
+100
+
+MT061
+Artificial tears
+Chai
+Lam am mat
+25000
+18
+
+MT062
+Chloramphenicol eye drops
+Chai
+Thuoc nho mat
+12000
+15
+
+MT063
+Normal saline 0.9%
+Chai
+Dung dich nuoc muoi sinh ly
+8000
+50
+
+MT064
+Dextrose 5%
+Chai
+Dung dich truyen glucose
+15000
+25
+
+MT065
+Ranitidine
+Vien
+Giam tiet axit da day
+1000
+30
+
+MT066
+Bismuth subsalicylate
+Chai
+Ho tro giam roi loan tieu hoa
+22000
+15
+
+MT067
+Meclizine
+Vien
+Giam say tau xe
+1800
+35
+
+MT068
+Dimenhydrinate
+Vien
+Giam buon non, say tau xe
+1500
+40
+
+MT069
+Mebendazole
+Vien
+Dieu tri mot so nhiem giun
+1200
+50
+
+MT070
+Albendazole
+Vien
+Dieu tri mot so nhiem giun
+1800
+50
